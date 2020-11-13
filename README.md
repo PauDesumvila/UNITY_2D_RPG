@@ -1,1 +1,1 @@
-# Scripts for a 2D RPG developed with UNITY.
+# Scripts for a 2D RPG game developed with UNITY.
